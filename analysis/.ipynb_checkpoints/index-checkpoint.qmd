@@ -1,0 +1,7 @@
+# Analysis
+
+My final project will look at Airbnbs for the city of Kauai, Hawaii, an island known to be the most beautiful island in the popular tropical destination. It can be difficult for a traveller to determine where to stay and what pricing is reasonable in a new destination. The project aims to provide useful insights on the available Airbnb listings on that island and a price predictive model for a potential visitor to the city in order to make a better informed decision on her choice of accommodation.
+
+The datasets will come from Inside Airbnb, a free website that provides quarterly Airbnb listing data, and Foursquare API, which provides venue information globally. For the Airbnb data, 1 year worth of scraped data is utilized. The site provides detailed listings, calendar, and review data, with a geojson file of the neighbourhoods in the city to create mapping visualizations. Foursquare API was also used to have a more robust understanding of what number and type of venues were within each neighbourhood, and its relationship to price.
+
+Interactive visualizations and a machine learning algorithm are provided for the potential traveller to utilize and determine where to stay in Kauai.
