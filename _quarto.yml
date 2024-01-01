@@ -6,8 +6,8 @@ project:
 
 website:
   title: "MUSA 550 Final Project: Airbnb Properties in Kauai, Hawaii"
-  site-url: "https://musa-550-fall-2023.github.io/airbnb-properties-in-kauai" 
-  repo-url: https://github.com/MUSA-550-Fall-2023/airbnb-properties-in-kauai
+  site-url: "https://seuha.github.io/python-final-quarto/analysis/"
+  repo-url: https://github.com/seuha/python-final-quarto
   repo-actions: [source]
 
   page-footer:

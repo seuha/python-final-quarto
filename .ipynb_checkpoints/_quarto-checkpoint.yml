@@ -6,13 +6,13 @@ project:
 
 website:
   title: "MUSA 550 Final Project: Airbnb Properties in Kauai, Hawaii"
-  site-url: "https://musa-550-fall-2023.github.io/airbnb-properties-in-kauai" 
-  repo-url: https://github.com/MUSA-550-Fall-2023/airbnb-properties-in-kauai
+  site-url: "https://seuha.github.io/python-final-quarto/analysis/"
+  repo-url: https://github.com/seuha/python-final-quarto
   repo-actions: [source]
 
   page-footer:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-    left: "&copy; CC-Nick Hand, 2023"
+    left: "&copy; CC-Nick Hand and Alice Han, 2023"
 
   sidebar:
     logo: "images/kauai-flower.png"
@@ -25,10 +25,7 @@ website:
     contents:
       - section: analysis/index.qmd
         contents:
-          - analysis/1-python-code-blocks.qmd 
-          - analysis/2-static-images.ipynb
-          - analysis/3-altair-hvplot.ipynb
-          - analysis/4-folium.ipynb
+          - analysis/final-project.ipynb
 
 format:
   html:

@@ -1,1 +1,1 @@
-Sitemap: https://musa-550-fall-2023.github.io/airbnb-properties-in-kauai/sitemap.xml
+Sitemap: https://seuha.github.io/python-final-quarto/analysis/sitemap.xml
